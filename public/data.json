@@ -1,0 +1,1110 @@
+{
+  "Sketches": [
+    {
+      "id": 0,
+      "title": "Famous Duck sketch",
+      "url": "/Sketch/img1.jpeg",
+      "type": "Sketch",
+      "artist": "Anum Mustafa",
+      "price": {
+        "actual": 3000,
+        "new": 2000
+      }
+    },
+    {
+      "id": 1,
+      "title": "Famous Duck sketch",
+      "url": "/Sketch/img2.jpeg",
+      "type": "Sketch",
+      "artist": "Anum Mustafa",
+      "price": {
+        "actual": 3000,
+        "new": 2000
+      }
+    },
+    {
+      "id": 2,
+      "title": "Famous Duck sketch",
+      "url": "/Sketch/img3.jpeg",
+      "type": "Sketch",
+      "artist": "Anum Mustafa",
+      "price": {
+        "actual": 3000,
+        "new": 2000
+      }
+    },
+    {
+      "id": 3,
+      "title": "Famous Duck sketch",
+      "url": "/Sketch/img4.jpeg",
+      "type": "Sketch",
+      "artist": "Anum Mustafa",
+      "price": {
+        "actual": 3000,
+        "new": 2000
+      }
+    },
+    {
+      "id": 4,
+      "title": "Portrait Study sketch",
+      "url": "/Sketch/img5.jpeg",
+      "type": "Sketch",
+      "artist": "A. Khan",
+      "price": {
+        "actual": 3500,
+        "new": 2500
+      }
+    },
+    {
+      "id": 5,
+      "title": "Portrait Study sketch",
+      "url": "/Sketch/img6.jpeg",
+      "type": "Sketch",
+      "artist": "A. Khan",
+      "price": {
+        "actual": 3500,
+        "new": 2500
+      }
+    },
+    {
+      "id": 7,
+      "title": "Portrait Study sketch",
+      "url": "/Sketch/img8.jpeg",
+      "type": "Sketch",
+      "artist": "A. Khan",
+      "price": {
+        "actual": 3500,
+        "new": 2500
+      }
+    },
+    {
+      "id": 8,
+      "title": "Nature Pencil sketch",
+      "url": "/Sketch/img9.jpeg",
+      "type": "Sketch",
+      "artist": "Z. Ali",
+      "price": {
+        "actual": 2800,
+        "new": 2000
+      }
+    },
+    {
+      "id": 9,
+      "title": "Nature Pencil sketch",
+      "url": "/Sketch/img10.jpeg",
+      "type": "Sketch",
+      "artist": "Z. Ali",
+      "price": {
+        "actual": 2800,
+        "new": 2000
+      }
+    },
+    {
+      "id": 10,
+      "title": "Nature Pencil sketch",
+      "url": "/Sketch/img11.jpeg",
+      "type": "Sketch",
+      "artist": "Z. Ali",
+      "price": {
+        "actual": 2800,
+        "new": 2000
+      }
+    },
+    {
+      "id": 11,
+      "title": "Nature Pencil sketch",
+      "url": "/Sketch/img12.jpeg",
+      "type": "Sketch",
+      "artist": "Z. Ali",
+      "price": {
+        "actual": 2800,
+        "new": 2000
+      }
+    },
+    {
+      "id": 12,
+      "title": "Animal Sketch Series",
+      "url": "/Sketch/img13.jpeg",
+      "type": "Sketch",
+      "artist": "M. Ahmed",
+      "price": {
+        "actual": 4000,
+        "new": 3000
+      }
+    },
+    {
+      "id": 13,
+      "title": "Animal Sketch Series",
+      "url": "/Sketch/img14.jpeg",
+      "type": "Sketch",
+      "artist": "M. Ahmed",
+      "price": {
+        "actual": 4000,
+        "new": 3000
+      }
+    },
+    {
+      "id": 14,
+      "title": "Animal Sketch Series",
+      "url": "/Sketch/img15.jpeg",
+      "type": "Sketch",
+      "artist": "M. Ahmed",
+      "price": {
+        "actual": 4000,
+        "new": 3000
+      }
+    },
+    {
+      "id": 15,
+      "title": "Animal Sketch Series",
+      "url": "/Sketch/img16.jpeg",
+      "type": "Sketch",
+      "artist": "M. Ahmed",
+      "price": {
+        "actual": 4000,
+        "new": 3000
+      }
+    },
+    {
+      "id": 16,
+      "title": "Urban Sketch View",
+      "url": "/Sketch/img17.jpeg",
+      "type": "Sketch",
+      "artist": "S. Raza",
+      "price": {
+        "actual": 3200,
+        "new": 2400
+      }
+    },
+    {
+      "id": 17,
+      "title": "Urban Sketch View",
+      "url": "/Sketch/img18.jpeg",
+      "type": "Sketch",
+      "artist": "S. Raza",
+      "price": {
+        "actual": 3200,
+        "new": 2400
+      }
+    },
+    {
+      "id": 18,
+      "title": "Urban Sketch View",
+      "url": "/Sketch/img19.jpeg",
+      "type": "Sketch",
+      "artist": "S. Raza",
+      "price": {
+        "actual": 3200,
+        "new": 2400
+      }
+    },
+    {
+      "id": 19,
+      "title": "Realistic Eye sketch",
+      "url": "/Sketch/img20.jpeg",
+      "type": "Sketch",
+      "artist": "S. Raza",
+      "price": {
+        "actual": 3200,
+        "new": 2400
+      }
+    },
+    {
+      "id": 20,
+      "title": "Realistic Eye sketch",
+      "url": "/Sketch/img21.jpeg",
+      "type": "Sketch",
+      "artist": "H. Malik",
+      "price": {
+        "actual": 5000,
+        "new": 3800
+      }
+    },
+    {
+      "id": 21,
+      "title": "Realistic Eye sketch",
+      "url": "/Sketch/img22.jpeg",
+      "type": "Sketch",
+      "artist": "H. Malik",
+      "price": {
+        "actual": 5000,
+        "new": 3800
+      }
+    },
+    {
+      "id": 22,
+      "title": "Realistic Eye sketch",
+      "url": "/Sketch/img23.jpeg",
+      "type": "Sketch",
+      "artist": "H. Malik",
+      "price": {
+        "actual": 5000,
+        "new": 3800
+      }
+    },
+    {
+      "id": 23,
+      "title": "Creative Line Art",
+      "url": "/Sketch/img24.jpeg",
+      "type": "Sketch",
+      "artist": "H. Malik",
+      "price": {
+        "actual": 5000,
+        "new": 3800
+      }
+    },
+    {
+      "id": 24,
+      "title": "Creative Line Art",
+      "url": "/Sketch/img25.jpeg",
+      "type": "Sketch",
+      "artist": "U. Sheikh",
+      "price": {
+        "actual": 2600,
+        "new": 1800
+      }
+    },
+    {
+      "id": 25,
+      "title": "Creative Line Art",
+      "url": "/Sketch/img26.jpeg",
+      "type": "Sketch",
+      "artist": "U. Sheikh",
+      "price": {
+        "actual": 2600,
+        "new": 1800
+      }
+    },
+    {
+      "id": 26,
+      "title": "Creative Line Art",
+      "url": "/Sketch/img27.jpeg",
+      "type": "Sketch",
+      "artist": "U. Sheikh",
+      "price": {
+        "actual": 2600,
+        "new": 1800
+      }
+    },
+    {
+      "id": 27,
+      "title": "Final Sketch Collection",
+      "url": "/Sketch/img28.jpeg",
+      "type": "Sketch",
+      "artist": "U. Sheikh",
+      "price": {
+        "actual": 4500,
+        "new": 3200
+      }
+    },
+    {
+      "id": 28,
+      "title": "Final Sketch Collection",
+      "url": "/Sketch/img29.jpeg",
+      "type": "Sketch",
+      "artist": "Anum Mustafa",
+      "price": {
+        "actual": 4500,
+        "new": 3200
+      }
+    },
+    {
+      "id": 29,
+      "title": "Final Sketch Collection",
+      "url": "/Sketch/img30.jpeg",
+      "type": "Sketch",
+      "artist": "Anum Mustafa",
+      "price": {
+        "actual": 4500,
+        "new": 3200
+      }
+    },
+    {
+      "id": 30,
+      "title": "New Painting Arrivals",
+      "url": "/Sketch/img31.jpeg",
+      "type": "Sketch",
+      "artist": "A. Khan",
+      "price": {
+        "actual": 2200,
+        "new": 1700
+      }
+    }
+  ],
+  "Paintings": [
+    {
+      "id": 31,
+      "title": "New Painting Arrivals",
+      "url": "/Painting/pic1.jpeg",
+      "type": "Painting",
+      "artist": "A. Khan",
+      "price": {
+        "actual": 5000,
+        "new": 4500
+      }
+    },
+    {
+      "id": 32,
+      "title": "New Painting Arrivals",
+      "url": "/Painting/pic3.jpeg",
+      "type": "Painting",
+      "artist": "Z. Ali",
+      "price": {
+        "actual": 5400,
+        "new": 4900
+      }
+    },
+    {
+      "id": 33,
+      "title": "New Painting Arrivals",
+      "url": "/Painting/pic4.jpeg",
+      "type": "Painting",
+      "artist": "Z. Ali",
+      "price": {
+        "actual": 5600,
+        "new": 5100
+      }
+    },
+    {
+      "id": 34,
+      "title": "Abstract Color Flow",
+      "url": "/Painting/pic5.jpeg",
+      "type": "Painting",
+      "artist": "M. Ahmed",
+      "price": {
+        "actual": 5800,
+        "new": 5300
+      }
+    },
+    {
+      "id": 35,
+      "title": "Abstract Color Flow",
+      "url": "/Painting/pic6.jpeg",
+      "type": "Painting",
+      "artist": "M. Ahmed",
+      "price": {
+        "actual": 6000,
+        "new": 5500
+      }
+    },
+    {
+      "id": 36,
+      "title": "Nature Landscape Painting",
+      "url": "/Painting/pic7.jpeg",
+      "type": "Painting",
+      "artist": "S. Raza",
+      "price": {
+        "actual": 6200,
+        "new": 5700
+      }
+    },
+    {
+      "id": 37,
+      "title": "Nature Landscape Painting",
+      "url": "/Painting/pic8.jpeg",
+      "type": "Painting",
+      "artist": "S. Raza",
+      "price": {
+        "actual": 6400,
+        "new": 5900
+      }
+    },
+    {
+      "id": 38,
+      "title": "Sunset River Painting",
+      "url": "/Painting/pic9.jpeg",
+      "type": "Painting",
+      "artist": "S. Raza",
+      "price": {
+        "actual": 7200,
+        "new": 6800
+      }
+    },
+    {
+      "id": 39,
+      "title": "Abstract Color Art",
+      "url": "/Painting/pic10.jpeg",
+      "type": "Painting",
+      "artist": "S. Raza",
+      "price": {
+        "actual": 8100,
+        "new": 7600
+      }
+    },
+    {
+      "id": 40,
+      "title": "Vintage Village Scene",
+      "url": "/Painting/pic11.jpeg",
+      "type": "Painting",
+      "artist": "S. Raza",
+      "price": {
+        "actual": 5900,
+        "new": 5400
+      }
+    },
+    {
+      "id": 41,
+      "title": "Ocean Breeze Canvas",
+      "url": "/Painting/pic12.jpeg",
+      "type": "Painting",
+      "artist": "A. Hussain",
+      "price": {
+        "actual": 8700,
+        "new": 8200
+      }
+    },
+    {
+      "id": 42,
+      "title": "Modern Street Painting",
+      "url": "/Painting/pic13.jpeg",
+      "type": "Painting",
+      "artist": "A. Hussain",
+      "price": {
+        "actual": 7600,
+        "new": 7000
+      }
+    },
+    {
+      "id": 43,
+      "title": "Forest Waterfall Art",
+      "url": "/Painting/pic14.jpeg",
+      "type": "Painting",
+      "artist": "A. Hussain",
+      "price": {
+        "actual": 9200,
+        "new": 8700
+      }
+    },
+    {
+      "id": 44,
+      "title": "Golden Desert Painting",
+      "url": "/Painting/pic15.jpeg",
+      "type": "Painting",
+      "artist": "A. Hussain",
+      "price": {
+        "actual": 6100,
+        "new": 5600
+      }
+    },
+    {
+      "id": 45,
+      "title": "Blue Sky Reflection",
+      "url": "/Painting/pic16.jpeg",
+      "type": "Painting",
+      "artist": "M. Ali",
+      "price": {
+        "actual": 8400,
+        "new": 7900
+      }
+    },
+    {
+      "id": 46,
+      "title": "Peaceful Mountain View",
+      "url": "/Painting/pic17.jpeg",
+      "type": "Painting",
+      "artist": "M. Ali",
+      "price": {
+        "actual": 9700,
+        "new": 9200
+      }
+    },
+    {
+      "id": 47,
+      "title": "Autumn Leaves Painting",
+      "url": "/Painting/pic18.jpeg",
+      "type": "Painting",
+      "artist": "M. Ali",
+      "price": {
+        "actual": 7300,
+        "new": 6800
+      }
+    },
+    {
+      "id": 48,
+      "title": "Dreamy Night Art",
+      "url": "/Painting/pic19.jpeg",
+      "type": "Painting",
+      "artist": "M. Ali",
+      "price": {
+        "actual": 8800,
+        "new": 8300
+      }
+    },
+    {
+      "id": 49,
+      "title": "City Lights Canvas",
+      "url": "/Painting/pic20.jpeg",
+      "type": "Painting",
+      "artist": "N. Khan",
+      "price": {
+        "actual": 7900,
+        "new": 7400
+      }
+    },
+    {
+      "id": 50,
+      "title": "Historic Architecture Art",
+      "url": "/Painting/pic21.jpeg",
+      "type": "Painting",
+      "artist": "N. Khan",
+      "price": {
+        "actual": 9900,
+        "new": 9300
+      }
+    },
+    {
+      "id": 51,
+      "title": "Flower Garden Painting",
+      "url": "/Painting/pic22.jpeg",
+      "type": "Painting",
+      "artist": "N. Khan",
+      "price": {
+        "actual": 6500,
+        "new": 6100
+      }
+    },
+    {
+      "id": 52,
+      "title": "Moonlight Reflection",
+      "url": "/Painting/pic23.jpeg",
+      "type": "Painting",
+      "artist": "N. Khan",
+      "price": {
+        "actual": 8200,
+        "new": 7700
+      }
+    },
+    {
+      "id": 53,
+      "title": "Classic Portrait Painting",
+      "url": "/Painting/pic24.jpeg",
+      "type": "Painting",
+      "artist": "R. Ahmed",
+      "price": {
+        "actual": 9100,
+        "new": 8600
+      }
+    },
+    {
+      "id": 54,
+      "title": "Silent Lake View",
+      "url": "/Painting/pic25.jpeg",
+      "type": "Painting",
+      "artist": "R. Ahmed",
+      "price": {
+        "actual": 6800,
+        "new": 6300
+      }
+    },
+    {
+      "id": 55,
+      "title": "Color Splash Artwork",
+      "url": "/Painting/pic26.jpeg",
+      "type": "Painting",
+      "artist": "R. Ahmed",
+      "price": {
+        "actual": 7800,
+        "new": 7200
+      }
+    },
+    {
+      "id": 56,
+      "title": "Creative Brush Strokes",
+      "url": "/Painting/pic27.jpeg",
+      "type": "Painting",
+      "artist": "R. Ahmed",
+      "price": {
+        "actual": 8600,
+        "new": 8100
+      }
+    },
+    {
+      "id": 57,
+      "title": "Village Morning Scene",
+      "url": "/Painting/pic28.jpeg",
+      "type": "Painting",
+      "artist": "T. Malik",
+      "price": {
+        "actual": 7100,
+        "new": 6600
+      }
+    },
+    {
+      "id": 58,
+      "title": "Bright Horizon Painting",
+      "url": "/Painting/pic29.jpeg",
+      "type": "Painting",
+      "artist": "T. Malik",
+      "price": {
+        "actual": 9600,
+        "new": 9100
+      }
+    },
+    {
+      "id": 59,
+      "title": "Rainy Evening Artwork",
+      "url": "/Painting/pic30.jpeg",
+      "type": "Painting",
+      "artist": "T. Malik",
+      "price": {
+        "actual": 8300,
+        "new": 7800
+      }
+    },
+    {
+      "id": 60,
+      "title": "Traditional Culture Art",
+      "url": "/Painting/pic31.jpeg",
+      "type": "Painting",
+      "artist": "T. Malik",
+      "price": {
+        "actual": 8900,
+        "new": 8400
+      }
+    },
+    {
+      "id": 61,
+      "title": "Colorful Nature Scene",
+      "url": "/Painting/pic32.jpeg",
+      "type": "Painting",
+      "artist": "F. Noor",
+      "price": {
+        "actual": 9400,
+        "new": 8800
+      }
+    },
+    {
+      "id": 62,
+      "title": "Abstract Modern Design",
+      "url": "/Painting/pic33.jpeg",
+      "type": "Painting",
+      "artist": "F. Noor",
+      "price": {
+        "actual": 6200,
+        "new": 5800
+      }
+    },
+    {
+      "id": 63,
+      "title": "Peaceful River Painting",
+      "url": "/Painting/pic34.jpeg",
+      "type": "Painting",
+      "artist": "F. Noor",
+      "price": {
+        "actual": 8700,
+        "new": 8200
+      }
+    },
+    {
+      "id": 64,
+      "title": "Sunrise Landscape Art",
+      "url": "/Painting/pic35.jpeg",
+      "type": "Painting",
+      "artist": "F. Noor",
+      "price": {
+        "actual": 7600,
+        "new": 7100
+      }
+    },
+    {
+      "id": 65,
+      "title": "Elegant Floral Canvas",
+      "url": "/Painting/pic36.jpeg",
+      "type": "Painting",
+      "artist": "H. Javed",
+      "price": {
+        "actual": 9300,
+        "new": 8800
+      }
+    },
+    {
+      "id": 66,
+      "title": "Golden Sunset Painting",
+      "url": "/Painting/pic37.jpeg",
+      "type": "Painting",
+      "artist": "H. Javed",
+      "price": {
+        "actual": 8100,
+        "new": 7600
+      }
+    },
+    {
+      "id": 67,
+      "title": "Deep Forest Artwork",
+      "url": "/Painting/pic38.jpeg",
+      "type": "Painting",
+      "artist": "H. Javed",
+      "price": {
+        "actual": 9800,
+        "new": 9200
+      }
+    },
+    {
+      "id": 68,
+      "title": "Soft Pastel Landscape",
+      "url": "/Painting/pic39.jpeg",
+      "type": "Painting",
+      "artist": "H. Javed",
+      "price": {
+        "actual": 6900,
+        "new": 6400
+      }
+    }
+  ],
+  "Portraits": [
+    {
+      "id": 69,
+      "title": "Portrait 1",
+      "url": "/Portrait/p1.jfif",
+      "type": "Portrait",
+      "artist": "H. Javed",
+      "price": {
+        "actual": 6900,
+        "new": 6400
+      }
+    },
+    {
+      "id": 70,
+      "title": "Portrait 2",
+      "url": "/Portrait/p2.jfif",
+      "type": "Portrait",
+      "artist": "A. Khan",
+      "price": {
+        "actual": 7200,
+        "new": 6700
+      }
+    },
+    {
+      "id": 71,
+      "title": "Portrait 3",
+      "url": "/Portrait/p3.jfif",
+      "type": "Portrait",
+      "artist": "S. Ali",
+      "price": {
+        "actual": 8000,
+        "new": 7500
+      }
+    },
+    {
+      "id": 72,
+      "title": "Portrait 4",
+      "url": "/Portrait/p4.jfif",
+      "type": "Portrait",
+      "artist": "M. Raza",
+      "price": {
+        "actual": 6500,
+        "new": 6000
+      }
+    },
+    {
+      "id": 73,
+      "title": "Portrait 5",
+      "url": "/Portrait/p5.jfif",
+      "type": "Portrait",
+      "artist": "H. Javed",
+      "price": {
+        "actual": 9000,
+        "new": 8500
+      }
+    },
+    {
+      "id": 74,
+      "title": "Portrait 6",
+      "url": "/Portrait/p6.jfif",
+      "type": "Portrait",
+      "artist": "A. Khan",
+      "price": {
+        "actual": 7100,
+        "new": 6600
+      }
+    },
+    {
+      "id": 75,
+      "title": "Portrait 7",
+      "url": "/Portrait/p7.jfif",
+      "type": "Portrait",
+      "artist": "S. Ali",
+      "price": {
+        "actual": 6800,
+        "new": 6300
+      }
+    },
+    {
+      "id": 76,
+      "title": "Portrait 8",
+      "url": "/Portrait/p8.jfif",
+      "type": "Portrait",
+      "artist": "M. Raza",
+      "price": {
+        "actual": 7700,
+        "new": 7200
+      }
+    },
+    {
+      "id": 77,
+      "title": "Portrait 9",
+      "url": "/Portrait/p9.jfif",
+      "type": "Portrait",
+      "artist": "H. Javed",
+      "price": {
+        "actual": 8500,
+        "new": 8000
+      }
+    },
+    {
+      "id": 78,
+      "title": "Portrait 10",
+      "url": "/Portrait/p10.jfif",
+      "type": "Portrait",
+      "artist": "A. Khan",
+      "price": {
+        "actual": 6900,
+        "new": 6400
+      }
+    },
+    {
+      "id": 79,
+      "title": "Portrait 11",
+      "url": "/Portrait/p11.jpg",
+      "type": "Portrait",
+      "artist": "S. Ali",
+      "price": {
+        "actual": 7300,
+        "new": 6800
+      }
+    },
+    {
+      "id": 80,
+      "title": "Portrait 12",
+      "url": "/Portrait/p12.jfif",
+      "type": "Portrait",
+      "artist": "M. Raza",
+      "price": {
+        "actual": 9100,
+        "new": 8600
+      }
+    }
+  ],
+  "Caligraphy": [
+    {
+      "id": 81,
+      "title": "Caligraphy 1",
+      "url": "/Caligraphy/c1.webp",
+      "type": "Caligraphy",
+      "artist": "S. Ali",
+      "price": {
+        "actual": 7300,
+        "new": 6800
+      }
+    },
+    {
+      "id": 82,
+      "title": "Caligraphy 2",
+      "url": "/Caligraphy/c4.jpg",
+      "type": "Caligraphy",
+      "artist": "S. Ali",
+      "price": {
+        "actual": 6300,
+        "new": 5800
+      }
+    },
+    {
+  "id": 83,
+  "title": "Caligraphy 3",
+  "url": "/Caligraphy/c5.webp",
+  "type": "Caligraphy",
+  "artist": "S. Ali",
+  "price": {
+    "actual": 6400,
+    "new": 5900
+  }
+},
+{
+  "id": 84,
+  "title": "Caligraphy 4",
+  "url": "/Caligraphy/c6.jpg",
+  "type": "Caligraphy",
+  "artist": "S. Ali",
+  "price": {
+    "actual": 6500,
+    "new": 6000
+  }
+},
+{
+  "id": 85,
+  "title": "Caligraphy 5",
+  "url": "/Caligraphy/c7.jpg",
+  "type": "Caligraphy",
+  "artist": "S. Ali",
+  "price": {
+    "actual": 6600,
+    "new": 6100
+  }
+},
+{
+  "id": 86,
+  "title": "Caligraphy 6",
+  "url": "/Caligraphy/c8.webp",
+  "type": "Caligraphy",
+  "artist": "S. Ali",
+  "price": {
+    "actual": 6700,
+    "new": 6200
+  }
+},
+{
+  "id": 87,
+  "title": "Caligraphy 7",
+  "url": "/Caligraphy/c9.jpg",
+  "type": "Caligraphy",
+  "artist": "S. Ali",
+  "price": {
+    "actual": 6800,
+    "new": 6300
+  }
+},
+{
+  "id": 88,
+  "title": "Caligraphy 8",
+  "url": "/Caligraphy/c10.jpg",
+  "type": "Caligraphy",
+  "artist": "S. Ali",
+  "price": {
+    "actual": 6900,
+    "new": 6400
+  }
+},
+{
+  "id": 89,
+  "title": "Caligraphy 9",
+  "url": "/Caligraphy/c11.jpg",
+  "type": "Caligraphy",
+  "artist": "S. Ali",
+  "price": {
+    "actual": 7000,
+    "new": 6500
+  }
+},
+{
+  "id": 90,
+  "title": "Caligraphy 10",
+  "url": "/Caligraphy/c12.webp",
+  "type": "Caligraphy",
+  "artist": "S. Ali",
+  "price": {
+    "actual": 7100,
+    "new": 6600
+  }
+},
+{
+  "id": 91,
+  "title": "Caligraphy 11",
+  "url": "/Caligraphy/c13.webp",
+  "type": "Caligraphy",
+  "artist": "S. Ali",
+  "price": {
+    "actual": 7200,
+    "new": 6700
+  }
+},
+{
+  "id": 92,
+  "title": "Caligraphy 12",
+  "url": "/Caligraphy/c14.jpg",
+  "type": "Caligraphy",
+  "artist": "S. Ali",
+  "price": {
+    "actual": 7300,
+    "new": 6800
+  }
+},
+{
+  "id": 93,
+  "title": "Caligraphy 13",
+  "url": "/Caligraphy/c15.webp",
+  "type": "Caligraphy",
+  "artist": "S. Ali",
+  "price": {
+    "actual": 7400,
+    "new": 6900
+  }
+},
+{
+  "id": 94,
+  "title": "Caligraphy 14",
+  "url": "/Caligraphy/c16.webp",
+  "type": "Caligraphy",
+  "artist": "S. Ali",
+  "price": {
+    "actual": 7500,
+    "new": 7000
+  }
+},
+{
+  "id": 95,
+  "title": "Caligraphy 15",
+  "url": "/Caligraphy/c17.jpg",
+  "type": "Caligraphy",
+  "artist": "S. Ali",
+  "price": {
+    "actual": 7600,
+    "new": 7100
+  }
+},
+{
+  "id": 96,
+  "title": "Caligraphy 16",
+  "url": "/Caligraphy/c18.jpg",
+  "type": "Caligraphy",
+  "artist": "S. Ali",
+  "price": {
+    "actual": 7700,
+    "new": 7200
+  }
+},
+{
+  "id": 97,
+  "title": "Caligraphy 17",
+  "url": "/Caligraphy/c19.webp",
+  "type": "Caligraphy",
+  "artist": "S. Ali",
+  "price": {
+    "actual": 7800,
+    "new": 7300
+  }
+},
+{
+  "id": 98,
+  "title": "Caligraphy 18",
+  "url": "/Caligraphy/c20.jpg",
+  "type": "Caligraphy",
+  "artist": "S. Ali",
+  "price": {
+    "actual": 7900,
+    "new": 7400
+  }
+},
+{
+  "id": 99,
+  "title": "Caligraphy 19",
+  "url": "/Caligraphy/c21.jpg",
+  "type": "Caligraphy",
+  "artist": "S. Ali",
+  "price": {
+    "actual": 8000,
+    "new": 7500
+  }
+},
+{
+  "id": 100,
+  "title": "Caligraphy 20",
+  "url": "/Caligraphy/c22.jpg",
+  "type": "Caligraphy",
+  "artist": "S. Ali",
+  "price": {
+    "actual": 8100,
+    "new": 7600
+  }
+}
+  ]
+}
