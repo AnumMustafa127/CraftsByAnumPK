@@ -21,65 +21,30 @@ import CaligraphyPg from './Pages/CaligraphyPg.jsx'
 import PaymentPg from './Pages/PaymentPg.jsx'
 import CheckoutPg from './Pages/CheckoutPg.jsx'
 
-
-const router = createBrowserRouter(
-  [
-    {
-      path: "/",
-      element: <App />,
-      children: [
-        {
-          index: true,
-          element: <HomePg />,
-        },
-        {
-          path: "HomePg",
-          element: <HomePg />,
-        },
-        {
-          path: "PaintingPg",
-          element: <PaintingPg />,
-        },
-        {
-          path: "SketchPg",
-          element: <SketchPg />
-        },
-        {
-          path: "DetailPg/:id",
-          element: <DetailPg />
-        },
-        {
-          path: "WhatWeDo",
-          element: <WhatWeDo />
-        },
-        {
-          path: "PortraitPg",
-          element: <PortraitPg />
-        },
-        {
-          path: "SubscriptionPg",
-          element: <SubscriptionPg />
-        },
-        {
-          path: "CaligraphyPg",
-          element: <CaligraphyPg />
-        },
-        {
-          path: "CheckoutPg",
-          element: <CheckoutPg />
-        },
-        {
-          path: "PaymentPg",
-          element: <PaymentPg />
-        },
-      ],
-    },
-  ],
+const router = createBrowserRouter([
   {
-    basename: "/CraftsByAnumPK",
-  }
+    path: "/",
+    element: <App />,
+    children: [
+      { index: true, element: <HomePg /> },
 
-)
+      { path: "HomePg", element: <HomePg /> },
+      { path: "PaintingPg", element: <PaintingPg /> },
+      { path: "SketchPg", element: <SketchPg /> },
+      { path: "DetailPg/:id", element: <DetailPg /> },
+      { path: "WhatWeDo", element: <WhatWeDo /> },
+      { path: "PortraitPg", element: <PortraitPg /> },
+      { path: "SubscriptionPg", element: <SubscriptionPg /> },
+      { path: "CaligraphyPg", element: <CaligraphyPg /> },
+      { path: "CheckoutPg", element: <CheckoutPg /> },
+      { path: "PaymentPg", element: <PaymentPg /> },
+
+      { path: "*", element: <HomePg /> }
+    ],
+  },
+]);
+
+
 ReactDOM.createRoot(document.getElementById('root')).render(
 
   <RouterProvider router={router} />
