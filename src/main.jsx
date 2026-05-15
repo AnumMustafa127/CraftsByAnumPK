@@ -56,7 +56,7 @@ const router = createBrowserRouter(
           path: "/PortraitPg",
           element: <PortraitPg />
         },
-         {
+        {
           path: "/SubscriptionPg",
           element: <SubscriptionPg />
         },
@@ -73,12 +73,16 @@ const router = createBrowserRouter(
           element: <PaymentPg />
         },
       ],
+
     },
+    {
+      basename: "/CraftsByAnumPK",
+    }
   ],
-  
+
 )
 ReactDOM.createRoot(document.getElementById('root')).render(
- 
-    <RouterProvider router = {router}/>
-   
+
+  <RouterProvider router={router} />
+
 )
