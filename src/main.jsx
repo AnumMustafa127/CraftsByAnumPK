@@ -29,56 +29,55 @@ const router = createBrowserRouter(
       element: <App />,
       children: [
         {
-          path: "/",
+          index: true,
           element: <HomePg />,
         },
         {
-          path: "/HomePg",
+          path: "HomePg",
           element: <HomePg />,
         },
         {
-          path: "/PaintingPg",
+          path: "PaintingPg",
           element: <PaintingPg />,
         },
         {
-          path: "/SketchPg",
+          path: "SketchPg",
           element: <SketchPg />
         },
         {
-          path: "/DetailPg/:id",
+          path: "DetailPg/:id",
           element: <DetailPg />
         },
         {
-          path: "/WhatWeDo",
+          path: "WhatWeDo",
           element: <WhatWeDo />
         },
         {
-          path: "/PortraitPg",
+          path: "PortraitPg",
           element: <PortraitPg />
         },
         {
-          path: "/SubscriptionPg",
+          path: "SubscriptionPg",
           element: <SubscriptionPg />
         },
         {
-          path: "/CaligraphyPg",
+          path: "CaligraphyPg",
           element: <CaligraphyPg />
         },
         {
-          path: "/CheckoutPg",
+          path: "CheckoutPg",
           element: <CheckoutPg />
         },
         {
-          path: "/PaymentPg",
+          path: "PaymentPg",
           element: <PaymentPg />
         },
       ],
-
     },
-    {
-      basename: "/CraftsByAnumPK",
-    }
   ],
+  {
+    basename: "/CraftsByAnumPK",
+  }
 
 )
 ReactDOM.createRoot(document.getElementById('root')).render(
