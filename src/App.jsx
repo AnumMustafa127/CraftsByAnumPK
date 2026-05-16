@@ -1,5 +1,5 @@
 import { Link, Outlet } from "react-router-dom";
-import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
+import { Router, Routes, Route, Navigate } from 'react-router-dom';
 import './index.css'
 
 import HomePg from './Pages/HomePg.jsx'
