@@ -17,6 +17,7 @@ function App() {
     setjoin(e.target.value)
   }
 
+  
   function joinUser() {
     if (join.email === '') {
       alert("Please enter your email")

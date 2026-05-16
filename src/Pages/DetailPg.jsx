@@ -13,7 +13,7 @@ function App() {
 
     async function getData() {
 
-      const data = await fetch("/data.json")
+      const data = await fetch(import.meta.env.BASE_URL + 'data.json')
       const response = await data.json()
       const allitems = [
         ...response.Sketches,
@@ -55,7 +55,7 @@ function App() {
             {/* Image */}
             <div className="bg-black/20 flex items-center justify-center p-6">
               <img
-                src={imageData.url}
+                src={import.meta.env.BASE_URL + imageData.url}
                 alt={imageData.title}
                 className="rounded-2xl w-full max-h-[550px] object-cover hover:scale-105 transition-transform duration-500 shadow-lg"
               />

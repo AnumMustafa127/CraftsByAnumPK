@@ -18,7 +18,7 @@ function Checkout() {
 
         {data && (
           <div className="flex flex-col gap-2">
-            <img src={data.url} alt="" />
+            <img src={import.meta.env.BASE_URL + data.url} alt="" />
             <h2 className="font-bold text-xl ">{data.title}</h2>
             <p className="font-bold text-2xl ">Price: {data.price.new}</p>
             

@@ -11,7 +11,7 @@ function App() {
     useEffect(() => {
         async function getData() {
 
-            const data = await fetch('/data.json')
+            const data = await fetch(import.meta.env.BASE_URL + 'data.json')
             const response = await data.json()
             const caliData = response.Caligraphy
             setcaligraphy([...caliData])
@@ -51,7 +51,7 @@ function App() {
                                 <div className="overflow-hidden cursor-pointer bg-black/20">
                                     <img
                                         className="w-full h-64 object-cover group-hover:scale-110 transition-transform duration-500"
-                                        src={e.url}
+                                        src={import.meta.env.BASE_URL + e.url}
                                         alt={e.title}
                                     />
                                 </div>

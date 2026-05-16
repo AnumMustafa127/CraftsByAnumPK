@@ -9,15 +9,14 @@ function App() {
   const [painting, setPainting] = useState([])
   useEffect(() => {
     async function getData() {
-      
-        const data = await fetch('/data.json')
+      const res = await fetch(import.meta.env.BASE_URL + 'data.json')
+      const response = await res.json()
 
-        const response = await data.json()
-        console.log(data)
-        const paintingData = response.Paintings
-        setPainting([...paintingData])
-  
+      console.log(response)
+
+      setPainting(response.Paintings)
     }
+
     getData()
   }, [])
   return (
@@ -38,7 +37,7 @@ function App() {
         </section>
 
         {/* Categories */}
-       <Category/>
+        <Category />
 
         {/* Cards */}
         <section className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 px-6 pb-10">
@@ -52,7 +51,7 @@ function App() {
                 <div className="overflow-hidden cursor-pointer bg-black/20">
                   <img
                     className="w-full h-64 object-cover group-hover:scale-110 transition-transform duration-500"
-                    src={e.url}
+                     src={import.meta.env.BASE_URL + e.url}
                     alt={e.title}
                   />
                 </div>
@@ -81,7 +80,7 @@ function App() {
           ))}
         </section>
 
-       <Contact/>
+        <Contact />
       </main>
     </>
   );
