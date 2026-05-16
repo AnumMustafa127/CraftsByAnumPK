@@ -28,6 +28,7 @@ export default function App() {
           <Route path="/CaligraphyPg" element={<CaligraphyPg />} />
           <Route path="/PaymentPg" element={<PaymentPg />} />
           <Route path="/CheckoutPg" element={<CheckoutPg />} />
+          <Route path="*" element={<HomePg />} />
         </Routes>
 
 
