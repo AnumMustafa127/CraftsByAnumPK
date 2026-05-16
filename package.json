@@ -1,6 +1,7 @@
 {
   "name": "craftsbyanumpk",
   "private": true,
+  "homepage": "https://your-username.github.io/CraftsByAnumPK",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
