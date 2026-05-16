@@ -4,7 +4,7 @@ import logo from '../assets/LOGO.png'
 const Navbar = () => {
     return (
         <>
-            <nav className='flex flex-col gap-2 sm:flex-row justify-between min-h-fit p-2 m-0 bg-[#D4DE95] border'>
+            <nav className='flex flex-col gap-2  sm:flex-row justify-between min-h-fit p-2 m-0 bg-[#D4DE95] border'>
                 <Link to={'/HomePg'}>
                 <div className='flex gap-2 items-center'>
                     <p>CraftsByAnumPK</p>
@@ -13,7 +13,7 @@ const Navbar = () => {
                         src={logo} alt="" />
                 </div>
                 </Link>
-                <ul className='flex gap-3 underline '>
+                <ul className='flex gap-3 flex-wrap underline '>
                     <li>Sketches</li>
                     <li>Paintings</li>
                     <li>Portraits</li>

@@ -12,6 +12,8 @@ import SubscriptionPg from './Pages/SubscriptionPg.jsx'
 import CaligraphyPg from './Pages/CaligraphyPg.jsx'
 import PaymentPg from './Pages/PaymentPg.jsx'
 import CheckoutPg from './Pages/CheckoutPg.jsx'
+
+import ErrorComponent from "./components/ErrorComponent.jsx";
 export default function App() {
   return (
     <>
@@ -28,7 +30,8 @@ export default function App() {
           <Route path="/CaligraphyPg" element={<CaligraphyPg />} />
           <Route path="/PaymentPg" element={<PaymentPg />} />
           <Route path="/CheckoutPg" element={<CheckoutPg />} />
-          <Route path="*" element={<HomePg />} />
+          <Route path="*" element={<ErrorComponent />} />
+          
         </Routes>
 
 
